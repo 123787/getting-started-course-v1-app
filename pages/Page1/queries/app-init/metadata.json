@@ -34,7 +34,8 @@
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-05-30T10:43:55Z"
   },
   "id": "Page1_app.init",
   "deleted": false,
